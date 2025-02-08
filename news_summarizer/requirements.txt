@@ -3,3 +3,4 @@ anthropic==0.45.2
 langchain==0.1.16
 langchain-community==0.0.34
 python-dotenv==1.0.0
+pyttsx3==2.90
