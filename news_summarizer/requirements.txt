@@ -1,4 +1,4 @@
-requests==2.33.0
+requests==2.34.2
 anthropic==0.45.2
 langchain==0.3.30
 langchain-community==0.0.34
